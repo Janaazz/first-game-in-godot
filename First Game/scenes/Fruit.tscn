@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://bcmx03a5gy8oh"]
+
+[ext_resource type="Texture2D" uid="uid://gx1xihdbejvu" path="res://assets/sprites/fruit.png" id="1_bajan"]
+
+[node name="Fruit" type="Node2D"]
+
+[node name="Fruit" type="Sprite2D" parent="."]
+position = Vector2(192, 104)
+texture = ExtResource("1_bajan")
